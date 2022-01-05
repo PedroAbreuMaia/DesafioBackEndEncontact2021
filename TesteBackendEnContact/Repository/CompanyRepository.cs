@@ -38,6 +38,7 @@ namespace TesteBackendEnContact.Repository
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
             connection.Open();
+
             using var transaction = connection.BeginTransaction();
 
             var sql = new StringBuilder();
@@ -45,6 +46,7 @@ namespace TesteBackendEnContact.Repository
             sql.AppendLine("UPDATE Contact SET CompanyId = null WHERE CompanyId = @id;");
 
             await connection.ExecuteAsync(sql.ToString(), new { id }, transaction);
+
             transaction.Commit();
             connection.Close(); 
         }
