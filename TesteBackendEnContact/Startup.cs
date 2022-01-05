@@ -37,10 +37,11 @@ namespace TesteBackendEnContact
                         .WithGlobalConnectionString(Configuration.GetConnectionString("DefaultConnection"))
                         .ScanIn(typeof(Startup).Assembly).For.Migrations())
                     .AddLogging(lb => lb.AddFluentMigratorConsole());
-
+            
             services.AddSingleton(new DatabaseConfig { ConnectionString = Configuration.GetConnectionString("DefaultConnection") });
             services.AddScoped<IContactBookRepository, ContactBookRepository>();
             services.AddScoped<ICompanyRepository, CompanyRepository>();
+            services.AddScoped<IContactRepository, ContactRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -21,7 +21,6 @@ namespace TesteBackendEnContact.Repository
             this.databaseConfig = databaseConfig;
         }
 
-
         public async Task<IContactBook> SaveAsync(IContactBook contactBook)
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
@@ -32,7 +31,6 @@ namespace TesteBackendEnContact.Repository
             return dao.Export();
         }
 
-
         public async Task DeleteAsync(int id)
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
@@ -40,19 +38,15 @@ namespace TesteBackendEnContact.Repository
 
             using var transaction = connection.BeginTransaction();
 
-            // TODO
             var sql = new StringBuilder();
             sql.AppendLine("DELETE FROM ContactBook WHERE Id = @id;");
-            sql.AppendLine("UPDATE Company SET ContactBookId = null WHERE ContactBookId = @id;");
+            sql.AppendLine("UPDATE Company SET contactBookId = 0 WHERE contactBookId = @id;");
 
             await connection.ExecuteAsync(sql.ToString(), new {id}, transaction);
 
             transaction.Commit();
             connection.Close();
         }
-
-
-
 
         public async Task<IEnumerable<IContactBook>> GetAllAsync()
         {
@@ -71,6 +65,7 @@ namespace TesteBackendEnContact.Repository
 
             return returnList.ToList();
         }
+
         public async Task<IContactBook> GetAsync(int id)
         {
             var list = await GetAllAsync();
