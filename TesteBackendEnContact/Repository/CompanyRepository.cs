@@ -51,12 +51,12 @@ namespace TesteBackendEnContact.Repository
             connection.Close(); 
         }
 
-        public async Task<IEnumerable<ICompany>> GetAllAsync()
+        public async Task<IEnumerable<ICompany>> GetAllAsync(int low, int high)
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
 
-            var query = "SELECT * FROM Company";
-            var result = await connection.QueryAsync<CompanyDao>(query);
+            var query = "SELECT * FROM Company LIMIT @low, @high";
+            var result = await connection.QueryAsync<CompanyDao>(query, new { low, high });
 
             return result?.Select(item => item.Export());
         }
@@ -65,7 +65,7 @@ namespace TesteBackendEnContact.Repository
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
 
-            var query = "SELECT * FROM Company where Id = @id";
+            var query = "SELECT * FROM Company WHERE Id = @id";
             var result = await connection.QuerySingleOrDefaultAsync<CompanyDao>(query, new { id });
 
             return result?.Export();

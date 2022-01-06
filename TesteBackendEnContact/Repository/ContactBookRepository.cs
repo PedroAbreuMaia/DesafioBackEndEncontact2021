@@ -40,7 +40,9 @@ namespace TesteBackendEnContact.Repository
 
             var sql = new StringBuilder();
             sql.AppendLine("DELETE FROM ContactBook WHERE Id = @id;");
+            sql.AppendLine("DELETE FROM Contact WHERE contactBookId = @id;");
             sql.AppendLine("UPDATE Company SET contactBookId = 0 WHERE contactBookId = @id;");
+            
 
             await connection.ExecuteAsync(sql.ToString(), new {id}, transaction);
 
@@ -48,12 +50,12 @@ namespace TesteBackendEnContact.Repository
             connection.Close();
         }
 
-        public async Task<IEnumerable<IContactBook>> GetAllAsync()
+        public async Task<IEnumerable<IContactBook>> GetAllAsync(int low, int high)
         {
             using var connection = new SqliteConnection(databaseConfig.ConnectionString);
 
-            var query = "SELECT * FROM ContactBook";
-            var result = await connection.QueryAsync<ContactBookDao>(query);
+            var query = "SELECT * FROM ContactBook LIMIT @low, @high";
+            var result = await connection.QueryAsync<ContactBookDao>(query, new { low, high });
 
             var returnList = new List<IContactBook>();
 
@@ -68,9 +70,13 @@ namespace TesteBackendEnContact.Repository
 
         public async Task<IContactBook> GetAsync(int id)
         {
-            var list = await GetAllAsync();
+            using var connection = new SqliteConnection(databaseConfig.ConnectionString);
 
-            return list.ToList().Where(item => item.Id == id).FirstOrDefault();
+            var query = "SELECT * FROM ContactBook WHERE Id = @id";
+
+            var result = await connection.QuerySingleOrDefaultAsync<ContactBookDao>(query, new { id });
+
+            return result?.Export();
         }
     }
 

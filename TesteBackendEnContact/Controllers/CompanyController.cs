@@ -31,10 +31,10 @@ namespace TesteBackendEnContact.Controllers
             await companyRepository.DeleteAsync(id);
         }
 
-        [HttpGet]
-        public async Task<IEnumerable<ICompany>> Get([FromServices] ICompanyRepository companyRepository)
+        [HttpGet("GetAll/{low:int}/{high:int}")]
+        public async Task<IEnumerable<ICompany>> Get(int low, int high, [FromServices] ICompanyRepository companyRepository)
         {
-            return await companyRepository.GetAllAsync();
+            return await companyRepository.GetAllAsync(low, high);
         }
 
         [HttpGet("{id}")]
