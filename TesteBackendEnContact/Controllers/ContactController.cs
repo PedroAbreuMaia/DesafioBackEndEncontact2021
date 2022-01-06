@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Net;
 using TesteBackendEnContact.Core.Domain.ContactBook.Contact;
 using TesteBackendEnContact.Core.Interface.ContactBook.Contact;
 using TesteBackendEnContact.Repository.Interface;
+using System;
 
 namespace TesteBackendEnContact.Controllers
 {
@@ -23,6 +26,11 @@ namespace TesteBackendEnContact.Controllers
         public async Task<IContact> Post(Contact contact, [FromServices] IContactRepository contactRepository)
         {
             return await contactRepository.SaveAsync(contact);
+        }
+
+        private Task WriteFile(IFormFile file)
+        {
+            throw new NotImplementedException();
         }
 
         [HttpDelete]

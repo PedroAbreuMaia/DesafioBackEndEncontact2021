@@ -1,0 +1,651 @@
+﻿++Solução 'TesteBackendEnContact' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:TesteBackendEnContact.sln
+++TesteBackendEnContact
+i:{00000000-0000-0000-0000-000000000000}:TesteBackendEnContact
+++Connected Services 
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>77
+++Banco de Dados do SQL Server (ConnectionStrings:DefaultConnection)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>702
+++Dependências
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>76
+++Analisadores
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:analisadores
+++Microsoft.AspNetCore.Analyzers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Estruturas
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:estruturas
+++Microsoft.AspNetCore.App
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\microsoft.netcore.app
+++Pacotes
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:pacotes
+++Dapper (2.0.90)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>91
+++Dapper.Contrib (2.0.78)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>92
+++FluentMigrator (3.3.1)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>89
+++FluentMigrator.Runner (3.3.1)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>94
+++FluentMigrator.Runner.SQLite (3.3.1)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>95
+++Microsoft.Data.Sqlite (5.0.11)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>93
+++Swashbuckle.AspNetCore (5.6.3)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>90
+++Importações
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>417
+++Sdk.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\properties\
+++launchSettings.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\properties\launchsettings.json
+++bin
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\
+++Debug
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\
+++Release
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\release\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\
+++Controllers
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\
+++Models
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\models\
+++SaveCompanyRequest.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\models\savecompanyrequest.cs
+++CompanyController.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\companycontroller.cs
+++ContactBookController.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\contactbookcontroller.cs
+++ContactController.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\controllers\contactcontroller.cs
+++Core
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\
+++Domain
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\
+++ContactBook
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\
+++Company
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\company\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\company\
+++Company.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\company\company.cs
+++Contact
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\contact\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\contact\
+++Contact.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\contact\contact.cs
+++ContactBook.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\domain\contactbook\contactbook.cs
+++Interface
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\interface\
+++ICompany.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\company\icompany.cs
+++IContact.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\contact\icontact.cs
+++IContactBook.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\core\interface\contactbook\icontactbook.cs
+++Database
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\database\
+++DatabaseConfig.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\database\databaseconfig.cs
+++DatabaseMigration.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\database\databasemigration.cs
+++obj
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\
+++Repository
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\
+++ICompanyRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\interface\icompanyrepository.cs
+++IContactBookRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\interface\icontactbookrepository.cs
+++IContactRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\interface\icontactrepository.cs
+++CompanyRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\companyrepository.cs
+++ContactBookRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\contactbookrepository.cs
+++ContactRepository.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\repository\contactrepository.cs
+++appsettings.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\appsettings.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\appsettings.json
+++appsettings.Development.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\appsettings.development.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\appsettings.development.json
+++Database.db
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\database.db
+++Program.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\program.cs
+++Startup.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\startup.cs
+++Foi detectada a dependência de Banco de Dados do SQL Server com connectionId 'ConnectionStrings:DefaultConnection'
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:>703
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++net5.0
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\release\net5.0\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\
+++project.assets.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\project.assets.json
+++project.nuget.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\project.nuget.cache
+++TesteBackendEnContact.csproj.nuget.dgspec.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\testebackendencontact.csproj.nuget.dgspec.json
+++TesteBackendEnContact.csproj.nuget.g.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\testebackendencontact.csproj.nuget.g.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\testebackendencontact.csproj.nuget.g.props
+++TesteBackendEnContact.csproj.nuget.g.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\testebackendencontact.csproj.nuget.g.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\testebackendencontact.csproj.nuget.g.targets
+++Microsoft.Common.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++de-DE
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\de-de\
+++ref
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\ref\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\release\net5.0\ref\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\ref\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\ref\
+++runtimes
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\
+++Dapper.Contrib.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\dapper.contrib.dll
+++Dapper.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\dapper.dll
+++FluentMigrator.Abstractions.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.abstractions.dll
+++FluentMigrator.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.dll
+++FluentMigrator.Extensions.Oracle.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.extensions.oracle.dll
+++FluentMigrator.Extensions.Postgres.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.extensions.postgres.dll
+++FluentMigrator.Extensions.SqlAnywhere.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.extensions.sqlanywhere.dll
+++FluentMigrator.Extensions.SqlServer.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.extensions.sqlserver.dll
+++FluentMigrator.Runner.Core.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.core.dll
+++FluentMigrator.Runner.Db2.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.db2.dll
+++FluentMigrator.Runner.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.dll
+++FluentMigrator.Runner.Firebird.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.firebird.dll
+++FluentMigrator.Runner.Hana.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.hana.dll
+++FluentMigrator.Runner.MySql.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.mysql.dll
+++FluentMigrator.Runner.Oracle.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.oracle.dll
+++FluentMigrator.Runner.Postgres.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.postgres.dll
+++FluentMigrator.Runner.Redshift.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.redshift.dll
+++FluentMigrator.Runner.SqlAnywhere.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.sqlanywhere.dll
+++FluentMigrator.Runner.SQLite.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.sqlite.dll
+++FluentMigrator.Runner.SqlServer.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.sqlserver.dll
+++FluentMigrator.Runner.SqlServerCe.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\fluentmigrator.runner.sqlserverce.dll
+++Microsoft.Data.SqlClient.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.data.sqlclient.dll
+++Microsoft.Data.Sqlite.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.data.sqlite.dll
+++Microsoft.Identity.Client.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\microsoft.openapi.dll
+++SQLitePCLRaw.batteries_v2.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\sqlitepclraw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\sqlitepclraw.core.dll
+++SQLitePCLRaw.nativelibrary.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\sqlitepclraw.nativelibrary.dll
+++SQLitePCLRaw.provider.dynamic_cdecl.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\sqlitepclraw.provider.dynamic_cdecl.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Configuration.ConfigurationManager.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\system.configuration.configurationmanager.dll
+++System.Data.SqlServerCe.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\system.data.sqlserverce.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
+++TesteBackendEnContact.deps.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.deps.json
+++TesteBackendEnContact.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\ref\testebackendencontact.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\ref\testebackendencontact.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.dll
+++TesteBackendEnContact.exe
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.exe
+++TesteBackendEnContact.pdb
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.pdb
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.pdb
+++TesteBackendEnContact.runtimeconfig.dev.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.runtimeconfig.dev.json
+++TesteBackendEnContact.runtimeconfig.json
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\testebackendencontact.runtimeconfig.json
+++Microsoft.NuGet.ImportBefore.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++FluentMigrator.Abstractions.resources.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\de-de\fluentmigrator.abstractions.resources.dll
+++alpine-x64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\alpine-x64\
+++linux-arm
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm\
+++linux-arm64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm64\
+++linux-armel
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-armel\
+++linux-mips64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-mips64\
+++linux-musl-x64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-musl-x64\
+++linux-x64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x64\
+++linux-x86
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x86\
+++osx-x64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\osx-x64\
+++unix
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\unix\
+++win
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x86\
+++staticwebassets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\apphost.exe
+++TesteBackendEnContact.AssemblyInfo.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\testebackendencontact.assemblyinfo.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.assemblyinfo.cs
+++TesteBackendEnContact.AssemblyInfoInputs.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\testebackendencontact.assemblyinfoinputs.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.assemblyinfoinputs.cache
+++TesteBackendEnContact.assets.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.assets.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\testebackendencontact.assets.cache
+++TesteBackendEnContact.csproj.CopyComplete
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.csproj.copycomplete
+++TesteBackendEnContact.csproj.CoreCompileInputs.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.csproj.corecompileinputs.cache
+++TesteBackendEnContact.csproj.FileListAbsolute.txt
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.csproj.filelistabsolute.txt
+++TesteBackendEnContact.GeneratedMSBuildEditorConfig.editorconfig
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\release\net5.0\testebackendencontact.generatedmsbuildeditorconfig.editorconfig
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.generatedmsbuildeditorconfig.editorconfig
+++TesteBackendEnContact.genruntimeconfig.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.genruntimeconfig.cache
+++TesteBackendEnContact.MvcApplicationPartsAssemblyInfo.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.mvcapplicationpartsassemblyinfo.cache
+++TesteBackendEnContact.MvcApplicationPartsAssemblyInfo.cs
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.mvcapplicationpartsassemblyinfo.cs
+++TesteBackendEnContact.RazorTargetAssemblyInfo.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.razortargetassemblyinfo.cache
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\.nuget\packages\swashbuckle.aspnetcore\5.6.3\build\swashbuckle.aspnetcore.props
+++Microsoft.NuGet.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++native
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\alpine-x64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-armel\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-mips64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-musl-x64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x86\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\osx-x64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x64\native\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x86\native\
+++lib
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\unix\lib\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\
+++TesteBackendEnContact.StaticWebAssets.Manifest.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\staticwebassets\testebackendencontact.staticwebassets.manifest.cache
+++Microsoft.NET.ILLink.Tasks.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+++libe_sqlite3.dylib
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+++netcoreapp3.1
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++e_sqlite3.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+++Microsoft.Data.SqlClient.SNI.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++TesteBackendEnContact.csproj.AssemblyReference.cache
+i:{922879c7-8978-460b-b44a-a71d7b6ab525}:c:\users\maria\source\repos\pedroabreumaia\desafiobackendencontact2021\testebackendencontact\obj\debug\net5.0\testebackendencontact.csproj.assemblyreference.cache

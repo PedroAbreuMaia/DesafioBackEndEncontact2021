@@ -10,6 +10,7 @@ using System;
 using TesteBackendEnContact.Database;
 using TesteBackendEnContact.Repository;
 using TesteBackendEnContact.Repository.Interface;
+using TesteBackendEnContact.Controllers.Interfaces;
 
 namespace TesteBackendEnContact
 {
@@ -29,6 +30,7 @@ namespace TesteBackendEnContact
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "TesteBackendEnContact", Version = "v1" });
+                c.OperationFilter<SwaggerFileOperationFilter>();
             });
 
             services.AddFluentMigratorCore()
